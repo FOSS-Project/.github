@@ -3,7 +3,8 @@
 ![Viewers](https://komarev.com/ghpvc/?username=FOSS-Project)
 
 # Contributors
-![Telegram Badge](https://telegram-badge.vercel.app/api/telegram-badge?channelId=@fwlta)
+[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>](https://t.me/fwlta)
+
 
 
 
